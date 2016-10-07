@@ -9,7 +9,6 @@ import java.util.logging.Logger;
 /**
  * @author smattern on 05/10/16.
  */
-// ToDo: Rename
 public class FarmRepository {
 
     // Logger
